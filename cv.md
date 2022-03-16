@@ -13,3 +13,16 @@
     In my work, I strive to thoroughly understand the task at hand in order to complete it as well as possible. Responsible and
     conscientious.
     I am married, and I have two sons.
+
+## **Hobby:**
+
+_Active rest (kayaks, bicycles, volleyball),
+RC cars, computer games._
+
+---
+
+## **Programming skills:**
+
+    Independent study: HTML, CSS, JS, Git, basics React JS.
+
+## **sample code:**
