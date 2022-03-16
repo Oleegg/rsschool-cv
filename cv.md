@@ -23,7 +23,7 @@ RC cars, computer games._
 
 ## **Programming skills:**
 
-    Independent study: HTML, CSS, JS, Git, basics React JS.
+    Independent study: HTML, CSS, SCSS, JS, Git, Webpack, basics React JS .
 
 ## **sample code:**
 
