@@ -26,3 +26,27 @@ RC cars, computer games._
     Independent study: HTML, CSS, JS, Git, basics React JS.
 
 ## **sample code:**
+
+_Beginner Series #5 Triangular Numbers 7kyu_
+
+```
+function isTriangular(t) {
+    for (let n = 1; n <= t; n++) {
+        let x = n * (n + 1) / 2
+    }
+    return (x === t)
+}
+```
+
+## **Education:**
+
+_College of mehenical-technology, Pedagogical university._
+
+---
+
+## **Languages:**
+
+- Russian - native,
+- A1 I'm studying English.
+
+---
