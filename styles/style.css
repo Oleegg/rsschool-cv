@@ -80,7 +80,7 @@ body {
 }
 
 .nav {
-  position: absolute;
+  position: fixed;
   right: 0;
   top: 200px;
   -webkit-transform: translateX(100%);
@@ -282,6 +282,15 @@ section {
   grid-area: edu;
 }
 
+.education p {
+  margin-bottom: 10px;
+}
+
+.education__certificate {
+  text-decoration: none;
+  color: #000;
+}
+
 .languages {
   -ms-grid-row: 2;
   -ms-grid-column: 4;
@@ -398,7 +407,7 @@ section {
     font-size: 1.3rem;
   }
   .education p {
-    margin: 0 auto;
+    margin: 0 auto 10px;
     text-align: center;
   }
 }
