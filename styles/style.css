@@ -82,6 +82,7 @@ body {
 .nav {
   position: fixed;
   right: 0;
+  left: 0;
   top: 200px;
   -webkit-transform: translateX(100%);
           transform: translateX(100%);
@@ -274,6 +275,15 @@ section {
 
 .project-li a {
   text-decoration: none;
+  color: #727272;
+}
+
+.project-li > a:hover {
+  color: #000;
+}
+
+.project-li > a:visited {
+  color: #736877;
 }
 
 .education {
@@ -288,7 +298,15 @@ section {
 
 .education__certificate {
   text-decoration: none;
+  color: #727272;
+}
+
+.education__certificate:hover {
   color: #000;
+}
+
+.education__certificate:visited {
+  color: #736877;
 }
 
 .languages {
