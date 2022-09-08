@@ -17,7 +17,7 @@ body {
 }
 
 .header {
-  background: url(../assets/svg-png/noise_transparent.png), radial-gradient(85% 215.42% at 0% 0%, #972e2e 0%, #8c0e8c);
+  background: url(../assets/svg-png/noise_transparent.png), radial-gradient(85% 215.42% at 0% 0%, #a36666 0%, #4a5d93);
   color: aliceblue;
   width: 100%;
 }
