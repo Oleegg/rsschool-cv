@@ -212,20 +212,35 @@ section {
 
 .education {
   grid-area: edu;
+  display: flex;
+  flex-direction: column;
 }
 .education p {
   margin-bottom: 10px;
 }
-.education__certificate {
+.education__certif-wrapp {
+  width: 100%;
+  min-height: 50px;
   text-decoration: none;
-  color: rgb(114, 114, 114);
+  color: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.education__certificate {
+  background: url(../assets/my-pfoto/8zh94oxo_page-0001.jpg);
+  min-width: 50px;
+  min-height: 40px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
 }
 
-.education__certificate:hover {
+.education__certif-wrapp:hover {
   color: #000;
 }
 
-.education__certificate:visited {
+.education__certif-wrapp:visited {
   color: rgb(115, 104, 119);
 }
 
