@@ -52,6 +52,19 @@ body {
 .my__profession {
   font-size: 1.5rem;
 }
+.my__leng {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.my__leng-btn {
+  padding: 5px;
+  background-color: transparent;
+  color: rgb(186, 178, 99);
+  cursor: pointer;
+  border: 1px solid rgb(186, 178, 99);
+  border-radius: 5px;
+}
 
 .nav {
   position: fixed;
@@ -160,11 +173,12 @@ section {
 
 .about {
   grid-area: abo;
-  padding: 0 20px;
+  padding: 10px 20px;
 }
 .skills {
   grid-area: skil;
   margin-right: 20px;
+  padding-left: 10px;
 }
 .skills__list li {
   list-style: none;
